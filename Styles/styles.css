@@ -1,0 +1,17 @@
+section{
+    border-width:2px;
+    border-style:solid;
+    border-color:blue;
+    padding:10px;
+    margin:10px;
+    text-align:center;
+}
+.Offence{
+    border-color:purple;
+}
+.Defence{
+    border-color:orange;
+}
+hr{
+    width:400px;
+}

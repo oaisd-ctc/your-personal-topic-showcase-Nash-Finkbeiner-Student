@@ -3,10 +3,12 @@ body{
 }
 section{
     border-width:2px;
+    width:70%;
     border-style:solid;
     border-color:blue;
     padding:10px;
-    margin:10px;
+    margin:auto;
+    margin-bottom:10px;
     text-align:center;
 }
 .Offence{
@@ -16,5 +18,5 @@ section{
     border-color:orange;
 }
 hr{
-    width:400px;
+    width:50%;
 }

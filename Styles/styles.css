@@ -19,6 +19,9 @@ section{
 .Defence{
     border-color:orange;
 }
+.GoalKeeper{
+    border-color:red;
+}
 hr{
     width:50%;
 }

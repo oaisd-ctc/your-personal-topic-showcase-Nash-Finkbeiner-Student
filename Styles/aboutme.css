@@ -1,3 +1,11 @@
 body{
     text-align:center;
+    background-color:blue;
+    color:white;
+}
+hr{
+    width:50%;
+}
+section{
+    font-size:300%;
 }
